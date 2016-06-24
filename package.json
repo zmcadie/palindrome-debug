@@ -4,12 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/test_*.js"
+    "test": ""
   },
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
-  }
+  "license": "ISC"
 }
